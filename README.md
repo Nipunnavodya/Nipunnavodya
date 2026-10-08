@@ -1,49 +1,63 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=200&section=header&text=M.K.%20Nipun%20Navodya&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
-
-<br/>
-
-<!-- Live Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=IT+Project+Manager+%7C+Business+Analyst;Agile+%26+Scrum+Frameworks+Expert;Information+Systems+Engineering+Undergraduate" alt="Typing SVG" />
-</a>
+<!-- Full-Width Sleek Red Gradient Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:e11d48&height=220&section=header&text=M.K.%20Nipun%20Navodya&fontSize=46&fontColor=ffffff&fontAlign=80&animation=twinkling&desc=IT%20Project%20Manager%20%7C%20Business%20Analyst&descAlign=80&descSize=20&descColor=fecdd3" width="100%" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mk-nipun-navodya-58991a332)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunnavodya4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nipunnavodya)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nipunnavodya)
 
 </div>
 
 ---
 
-## 📌 Executive Summary
+## 🏛️ Executive Summary
 
-Undergraduate in **Information Systems Engineering** at **SLIIT** specializing in **IT Project Management**, **Agile/Scrum Frameworks**, and **Software Business Analysis**. Experienced in managing enterprise backlogs, structuring user stories, sprint planning, and executing quality delivery workflows using modern PM tools.
-
----
-
-## 🛠️ Domain Competencies & Tech Stack
-
-<div align="center">
-
-| Area | Tools & Frameworks |
-| :--- | :--- |
-| **Project Management** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) |
-| **Analysis & Modeling** | ![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B07?style=for-the-badge&logo=lucidchart&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![BPMN](https://img.shields.io/badge/BPMN_2.0-000000?style=for-the-badge) |
-| **Development & Versioning** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-
-</div>
+Undergraduate in **Information Systems Engineering** at **SLIIT** with specialized expertise in orchestrating enterprise workflows using **Agile/Scrum Frameworks**, performing comprehensive **Business Analysis**, and managing complex software delivery lifecycles. Proven capability in bridging technical architecture with business strategy to deliver high-quality IT solutions.
 
 ---
 
-## ⚡ Skills Progress & Proficiency
+## 🔬 Core Competencies & Domain Expertise
 
-```text
-Agile / Scrum Delivery   [████████████████████] 95%
-Business Analysis (SRS)  [█████████████████░░] 85%
-Backlog & Sprint Planning [██████████████████░] 90%
-Stakeholder Communication [█████████████████░░] 85%
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Agile Project Delivery</h3>
+      <ul>
+        <li><b>Enterprise Scrum Architecture</b> (Planning, Execution, Closure)</li>
+        <li><b>Kanban Framework Optimization</b> & Throughput Management</li>
+        <li><b>Sprint Backlog Management</b> & MoSCoW Prioritization</li>
+        <li><b>Risk Identification & Mitigation Planning</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Business Systems Analysis</h3>
+      <ul>
+        <li><b>Requirements Engineering</b> (BRD, FRD, SRS)</li>
+        <li><b>UML & BPMN Modeling</b> (Lucidchart, Draw.io)</li>
+        <li><b>User Story Mapping</b> & Acceptance Criteria Definition</li>
+        <li><b>Gap Analysis</b> & Stakeholder Communication</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Enterprise Tooling & Tech Stack
+
+```bash
+# Project & Process Management
+- Jira Enterprise  # (Scrum/Kanban Management)
+- ClickUp          # (Workflow Architecture)
+- Trello           # (Task Visualisation)
+
+# Modeling & Version Control
+- Lucidchart      # (Process & Data Flow Diagrams)
+- Figma           # (Prototyping & Wireframing)
+- Git / GitHub     # (Distributed Version Control)
+
+# Web Technologies
+- HTML5 | CSS3 | JavaScript
