@@ -1,51 +1,49 @@
 <div align="center">
 
-# M.K. Nipun Navodya
-### **IT Project Manager & Business Analyst**
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=200&section=header&text=M.K.%20Nipun%20Navodya&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
 
-*Information Systems Engineering | Agile & Scrum Delivery | Enterprise Solutions*
+<br/>
 
----
+<!-- Live Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=IT+Project+Manager+%7C+Business+Analyst;Agile+%26+Scrum+Frameworks+Expert;Information+Systems+Engineering+Undergraduate" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mk-nipun-navodya-58991a332)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunnavodya4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nipunnavodya)
 
----
-
 </div>
+
+---
 
 ## 📌 Executive Summary
 
-Undergraduate in **Information Systems Engineering** at **SLIIT** with a strong specialization in **IT Project Management**, **Agile/Scrum Frameworks**, and **Software Business Analysis**. Experienced in orchestrating cross-functional workflows, managing enterprise backlogs, structuring user stories, and enforcing quality standards using industry-standard tooling.
+Undergraduate in **Information Systems Engineering** at **SLIIT** specializing in **IT Project Management**, **Agile/Scrum Frameworks**, and **Software Business Analysis**. Experienced in managing enterprise backlogs, structuring user stories, sprint planning, and executing quality delivery workflows using modern PM tools.
 
 ---
 
-## 🏛️ Core Competencies & Domain Expertise
+## 🛠️ Domain Competencies & Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Project Management</h3>
-      <ul>
-        <li><b>Agile & Scrum Methodologies</b> (Sprint Planning, Retrospectives, Daily Standups)</li>
-        <li><b>Kanban Frameworks</b> & Work-In-Progress (WIP) Optimization</li>
-        <li><b>Backlog Management</b> & Requirement Prioritization (MoSCoW/RICE)</li>
-        <li><b>Risk Assessment</b> & Mitigation Strategies</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 Business Analysis</h3>
-      <ul>
-        <li><b>Requirements Engineering</b> (BRD, FRD, SRS Documentation)</li>
-        <li><b>User Story Mapping</b> & Acceptance Criteria Definition (Gherkin format)</li>
-        <li><b>Process Flow Diagrams</b> & UML Modeling (Use Case, Sequence, Activity)</li>
-        <li><b>Stakeholder Management</b> & Gap Analysis</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Area | Tools & Frameworks |
+| :--- | :--- |
+| **Project Management** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=ClickUp&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white) |
+| **Analysis & Modeling** | ![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B07?style=for-the-badge&logo=lucidchart&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![BPMN](https://img.shields.io/badge/BPMN_2.0-000000?style=for-the-badge) |
+| **Development & Versioning** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+
+</div>
 
 ---
 
-## 🛠️ Enterprise Tooling & Tech Stack
+## ⚡ Skills Progress & Proficiency
+
+```text
+Agile / Scrum Delivery   [████████████████████] 95%
+Business Analysis (SRS)  [█████████████████░░] 85%
+Backlog & Sprint Planning [██████████████████░] 90%
+Stakeholder Communication [█████████████████░░] 85%
