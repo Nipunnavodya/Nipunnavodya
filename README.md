@@ -1,63 +1,29 @@
 <div align="center">
 
-<!-- Full-Width Sleek Red Gradient Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:e11d48&height=220&section=header&text=M.K.%20Nipun%20Navodya&fontSize=46&fontColor=ffffff&fontAlign=80&animation=twinkling&desc=IT%20Project%20Manager%20%7C%20Business%20Analyst&descAlign=80&descSize=20&descColor=fecdd3" width="100%" />
+<!-- Cyber Matrix Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:00f5d4&height=180&section=header&text=NIPUN%20NAVODYA&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=IT%20PROJECT%20MANAGER%20%7C%20BUSINESS%20ANALYST&descAlign=50&descAlignY=68&descSize=18&descColor=00f5d4" width="100%" />
+
+<br/>
+
+<!-- Realtime Terminal Style Sub-header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vcenter=true&width=700&lines=%3E_SYSTEM.INIT%20%3A%20Agile%20%26%20Scrum%20Frameworks;%3E_ROLE%20%3A%20IT%20Project%20Manager%20%7C%20BA;%3E_EDU%20%3A%20SLIIT%20Information%20Systems%20Eng." alt="Cyber Typing SVG" />
+</a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mk-nipun-navodya-58991a332)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunnavodya4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nipunnavodya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mk-nipun-navodya-58991a332)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunnavodya4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nipunnavodya)
 
 </div>
 
 ---
 
-## 🏛️ Executive Summary
+### 💻 `// SYSTEM OVERVIEW`
 
-Undergraduate in **Information Systems Engineering** at **SLIIT** with specialized expertise in orchestrating enterprise workflows using **Agile/Scrum Frameworks**, performing comprehensive **Business Analysis**, and managing complex software delivery lifecycles. Proven capability in bridging technical architecture with business strategy to deliver high-quality IT solutions.
-
----
-
-## 🔬 Core Competencies & Domain Expertise
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Agile Project Delivery</h3>
-      <ul>
-        <li><b>Enterprise Scrum Architecture</b> (Planning, Execution, Closure)</li>
-        <li><b>Kanban Framework Optimization</b> & Throughput Management</li>
-        <li><b>Sprint Backlog Management</b> & MoSCoW Prioritization</li>
-        <li><b>Risk Identification & Mitigation Planning</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 Business Systems Analysis</h3>
-      <ul>
-        <li><b>Requirements Engineering</b> (BRD, FRD, SRS)</li>
-        <li><b>UML & BPMN Modeling</b> (Lucidchart, Draw.io)</li>
-        <li><b>User Story Mapping</b> & Acceptance Criteria Definition</li>
-        <li><b>Gap Analysis</b> & Stakeholder Communication</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Enterprise Tooling & Tech Stack
-
-```bash
-# Project & Process Management
-- Jira Enterprise  # (Scrum/Kanban Management)
-- ClickUp          # (Workflow Architecture)
-- Trello           # (Task Visualisation)
-
-# Modeling & Version Control
-- Lucidchart      # (Process & Data Flow Diagrams)
-- Figma           # (Prototyping & Wireframing)
-- Git / GitHub     # (Distributed Version Control)
-
-# Web Technologies
-- HTML5 | CSS3 | JavaScript
+```yaml
+[USER_PROFILE]   : M.K. Nipun Navodya
+[CURRENT_STATUS]: B.Sc. (Hons) Information Systems Engineering @ SLIIT
+[CORE_SPECS]    : IT Project Management, Agile/Scrum Frameworks, Requirements Engineering
+[TOOLING]       : Jira Enterprise, ClickUp, Trello, Git, BPMN 2.0
