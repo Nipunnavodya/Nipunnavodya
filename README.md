@@ -1,27 +1,51 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:3b82f6&height=220&section=header&text=Hi%20%F0%9F%90%B1%E2%80%8D%F0%9F%90%B2,%20I'm%20Nipun%20Navodya&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+# M.K. Nipun Navodya
+### **IT Project Manager & Business Analyst**
 
-<!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=60A5FA&center=true&vcenter=true&width=600&lines=Aspiring+IT+Project+Manager;Business+Analyst;Agile+%26+Scrum+Practitioner;Information+Systems+Engineer" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- 3D Style Animated GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="3D Workstation Animation"/>
-
-</div>
+*Information Systems Engineering | Agile & Scrum Delivery | Enterprise Solutions*
 
 ---
 
-### 🚀 **About Me & Focus**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mk-nipun-navodya-58991a332)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunnavodya4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nipunnavodya)
 
-```yaml
-Current Role : Information Systems Engineering Undergraduate at SLIIT
-Core Domain  : IT Project Management | Business Analysis | Agile & Scrum
-Specialties  : Backlog Grooming, Sprint Planning, User Stories, Board Management
-Mail Contact : nipunnavodya4@gmail.com
-LinkedIn Profile : [https://www.linkedin.com/in/mk-nipun-navodya-58991a332](https://www.linkedin.com/in/mk-nipun-navodya-58991a332)
+---
+
+</div>
+
+## 📌 Executive Summary
+
+Undergraduate in **Information Systems Engineering** at **SLIIT** with a strong specialization in **IT Project Management**, **Agile/Scrum Frameworks**, and **Software Business Analysis**. Experienced in orchestrating cross-functional workflows, managing enterprise backlogs, structuring user stories, and enforcing quality standards using industry-standard tooling.
+
+---
+
+## 🏛️ Core Competencies & Domain Expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Project Management</h3>
+      <ul>
+        <li><b>Agile & Scrum Methodologies</b> (Sprint Planning, Retrospectives, Daily Standups)</li>
+        <li><b>Kanban Frameworks</b> & Work-In-Progress (WIP) Optimization</li>
+        <li><b>Backlog Management</b> & Requirement Prioritization (MoSCoW/RICE)</li>
+        <li><b>Risk Assessment</b> & Mitigation Strategies</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Business Analysis</h3>
+      <ul>
+        <li><b>Requirements Engineering</b> (BRD, FRD, SRS Documentation)</li>
+        <li><b>User Story Mapping</b> & Acceptance Criteria Definition (Gherkin format)</li>
+        <li><b>Process Flow Diagrams</b> & UML Modeling (Use Case, Sequence, Activity)</li>
+        <li><b>Stakeholder Management</b> & Gap Analysis</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Enterprise Tooling & Tech Stack
