@@ -29,13 +29,7 @@
 - 🔗 **LinkedIn:** [mk-nipun-navodya](https://www.linkedin.com/in/mk-nipun-navodya-58991a332)
 
 ---
-### 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nipunnavodya&theme=darkhub&no-frame=true&column=6" width="100%" alt="GitHub Trophies" />
-
-</div>
 
 ### 📊 GitHub Stats
 
